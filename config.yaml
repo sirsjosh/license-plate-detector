@@ -1,0 +1,6 @@
+path: /Users/joshhoko/Documents/projects/udacity/license-plate-recorgnition/data
+train: train
+val: valid
+
+names:
+  0:license-plate
