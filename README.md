@@ -1,6 +1,6 @@
 # License Plate Detection App
 
-![]([path/to/your/app/screenshot.png](https://github.com/sirsjosh/license-plate-detector/blob/main/youtube%20thumbnails%20(1).png))
+![](https://github.com/sirsjosh/license-plate-detector/blob/main/youtube%20thumbnails%20(1).png)
 
 ## Overview
 
